@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ccTensor"]
+	path = ccTensor
+	url = https://github.com/rikenbit/cctensor
+	shallow = true
+	registered = true
+[submodule "gcTensor"]
+	path = gcTensor
+	url = https://github.com/rikenbit/gctensor
+	shallow = true
+	registered = true
+[submodule "mwTensor"]
+	path = mwTensor
+	url = https://github.com/rikenbit/mwtensor
+	shallow = true
+	registered = true
+[submodule "nnTensor"]
+	path = nnTensor
+	url = https://github.com/rikenbit/nntensor
+	shallow = true
+	registered = true
+[submodule "rTensor"]
+	path = rTensor
+	url = https://github.com/rikenbit/rtensor
+	shallow = true
+	registered = true
+[submodule "ttTensor"]
+	path = ttTensor
+	url = https://github.com/rikenbit/tttensor
+	shallow = true
+	registered = true
+[submodule "DelayedTensor"]
+	path = DelayedTensor
+	url = https://github.com/rikenbit/delayedtensor
+	shallow = true
+	registered = true
+[submodule "meshr"]
+	path = meshr
+	url = https://github.com/rikenbit/meshr
+	shallow = true
+	registered = true

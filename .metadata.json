@@ -1,0 +1,32 @@
+[
+  {
+    "package": "ccTensor",
+    "oncran": true
+  },
+  {
+    "package": "gcTensor",
+    "oncran": true
+  },
+  {
+    "package": "mwTensor",
+    "oncran": true
+  },
+  {
+    "package": "nnTensor",
+    "oncran": true
+  },
+  {
+    "package": "rTensor",
+    "oncran": true
+  },
+  {
+    "package": "ttTensor",
+    "oncran": true
+  },
+  {
+    "package": "DelayedTensor"
+  },
+  {
+    "package": "meshr"
+  }
+]
