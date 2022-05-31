@@ -22,11 +22,5 @@
   {
     "package": "ttTensor",
     "oncran": true
-  },
-  {
-    "package": "DelayedTensor"
-  },
-  {
-    "package": "meshr"
   }
 ]
