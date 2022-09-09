@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "WormTensor",
+    "oncran": true
+  },
+  {
     "package": "DelayedTensor"
   },
   {

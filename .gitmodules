@@ -33,6 +33,11 @@
 	url = https://github.com/rikenbit/tttensor
 	shallow = true
 	registered = true
+[submodule "WormTensor"]
+	path = WormTensor
+	url = https://github.com/rikenbit/wormtensor
+	shallow = true
+	registered = true
 [submodule "DelayedTensor"]
 	path = DelayedTensor
 	url = https://github.com/rikenbit/delayedtensor
