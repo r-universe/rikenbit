@@ -29,5 +29,8 @@
   },
   {
     "package": "DelayedTensor"
+  },
+  {
+    "package": "meshr"
   }
 ]
