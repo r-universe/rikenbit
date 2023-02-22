@@ -8,6 +8,11 @@
 	url = https://github.com/rikenbit/cctensor
 	shallow = true
 	registered = true
+[submodule "dcTensor"]
+	path = dcTensor
+	url = https://github.com/rikenbit/dctensor
+	shallow = true
+	registered = true
 [submodule "gcTensor"]
 	path = gcTensor
 	url = https://github.com/rikenbit/gctensor

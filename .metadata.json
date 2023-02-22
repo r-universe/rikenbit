@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "dcTensor",
+    "oncran": true
+  },
+  {
     "package": "gcTensor",
     "oncran": true
   },
