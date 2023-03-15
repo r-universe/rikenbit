@@ -1,18 +1,6 @@
 [
   {
-    "package": "ccTensor",
-    "oncran": true
-  },
-  {
-    "package": "dcTensor",
-    "oncran": true
-  },
-  {
-    "package": "gcTensor",
-    "oncran": true
-  },
-  {
-    "package": "mwTensor",
+    "package": "WormTensor",
     "oncran": true
   },
   {
@@ -20,19 +8,31 @@
     "oncran": true
   },
   {
-    "package": "rTensor",
-    "oncran": true
-  },
-  {
     "package": "ttTensor",
     "oncran": true
   },
   {
-    "package": "WormTensor",
+    "package": "rTensor",
+    "oncran": true
+  },
+  {
+    "package": "dcTensor",
+    "oncran": true
+  },
+  {
+    "package": "ccTensor",
+    "oncran": true
+  },
+  {
+    "package": "mwTensor",
     "oncran": true
   },
   {
     "package": "DelayedTensor"
+  },
+  {
+    "package": "gcTensor",
+    "oncran": true
   },
   {
     "package": "meshr"
