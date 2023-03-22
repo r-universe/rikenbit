@@ -23,6 +23,11 @@
 	url = https://github.com/rikenbit/gctensor
 	shallow = true
 	registered = true
+[submodule "guidedPLS"]
+	path = guidedPLS
+	url = https://github.com/rikenbit/guidedpls
+	shallow = true
+	registered = true
 [submodule "meshr"]
 	path = meshr
 	url = https://github.com/rikenbit/meshr
