@@ -53,6 +53,11 @@
 	url = https://github.com/rikenbit/tttensor
 	shallow = true
 	registered = true
+[submodule "Vicus"]
+	path = Vicus
+	url = https://github.com/rikenbit/vicus
+	shallow = true
+	registered = true
 [submodule "WormTensor"]
 	path = WormTensor
 	url = https://github.com/rikenbit/wormtensor
