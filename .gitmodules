@@ -28,6 +28,11 @@
 	url = https://github.com/rikenbit/guidedpls
 	shallow = true
 	registered = true
+[submodule "iTensor"]
+	path = iTensor
+	url = https://github.com/rikenbit/itensor
+	shallow = true
+	registered = true
 [submodule "meshr"]
 	path = meshr
 	url = https://github.com/rikenbit/meshr
