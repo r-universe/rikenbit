@@ -38,6 +38,3 @@
 [submodule "rTensor"]
 	path = rTensor
 	url = https://github.com/rikenbit/rtensor
-[submodule "ttTensor"]
-	path = ttTensor
-	url = https://github.com/rikenbit/tttensor
