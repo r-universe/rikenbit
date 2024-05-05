@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DelayedTensor"]
-	path = DelayedTensor
-	url = https://github.com/rikenbit/delayedtensor
 [submodule "Vicus"]
 	path = Vicus
 	url = https://github.com/rikenbit/vicus
@@ -26,9 +23,6 @@
 [submodule "iTensor"]
 	path = iTensor
 	url = https://github.com/rikenbit/itensor
-[submodule "meshr"]
-	path = meshr
-	url = https://github.com/rikenbit/meshr
 [submodule "mwTensor"]
 	path = mwTensor
 	url = https://github.com/rikenbit/mwtensor
