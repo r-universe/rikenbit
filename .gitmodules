@@ -29,6 +29,9 @@
 [submodule "nnTensor"]
 	path = nnTensor
 	url = https://github.com/rikenbit/nntensor
+[submodule "otTensor"]
+	path = otTensor
+	url = https://github.com/rikenbit/ottensor
 [submodule "rTensor"]
 	path = rTensor
 	url = https://github.com/rikenbit/rtensor
