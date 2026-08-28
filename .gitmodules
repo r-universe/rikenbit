@@ -5,9 +5,6 @@
 [submodule "Vicus"]
 	path = Vicus
 	url = https://github.com/rikenbit/vicus
-[submodule "WormTensor"]
-	path = WormTensor
-	url = https://github.com/rikenbit/wormtensor
 [submodule "ccTensor"]
 	path = ccTensor
 	url = https://github.com/rikenbit/cctensor
